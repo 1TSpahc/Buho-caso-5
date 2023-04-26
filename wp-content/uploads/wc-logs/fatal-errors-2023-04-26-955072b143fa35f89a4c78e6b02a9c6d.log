@@ -1,0 +1,110 @@
+2023-04-26T17:25:58+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:26:25+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:29:06+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:29:09+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:29:12+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:29:15+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:29:48+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:34:22+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:46:16+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
+2023-04-26T17:50:11+00:00 CRITICAL Uncaught Error: Call to undefined function ai1wm_is_filesize_supported() in /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php:54
+Stack trace:
+#0 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php(94): Ai1wm_Backups::get_files()
+#1 /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(658): Ai1wm_Backups::count_files()
+#2 /home5/carhome/public_html/wp-includes/class-wp-hook.php(308): Ai1wm_Main_Controller->admin_menu('')
+#3 /home5/carhome/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home5/carhome/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home5/carhome/public_html/wp-admin/includes/menu.php(155): do_action('admin_menu', '')
+#6 /home5/carhome/public_html/wp-admin/menu.php(420): require_once('/home5/carhome/...')
+#7 /home5/carhome/public_html/wp-admin/admin.php(158): require( en /home5/carhome/public_html/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-backups.php en la línea 54
+
