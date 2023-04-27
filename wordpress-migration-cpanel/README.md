@@ -30,3 +30,24 @@
 
 
 ![Primer Diseno](./screenshots/6.png)
+
+#
+## Si queremos migrar de hosting. 🚀
+#
+#### Cada proveedor de hosting debe temer la siguiente herramienta para poder clonar repositorios de git. ⬇️
+
+![Primer Diseno](./screenshots/7.jpeg)
+
+#### Con esta funcionalidad tenemos la posibilidad de clonar nuestro repositorio remoto. ⬇️
+
+![Primer Diseno](./screenshots/8.png)
+![Primer Diseno](./screenshots/9.png)
+#
+#### Tambien podemos exportar la base de datos de nuestro anterior provedor siguiendo estos pasos. ⬇️
+![Primer Diseno](./screenshots/10.jpeg)
+![Primer Diseno](./screenshots/11.jpeg)
+![Primer Diseno](./screenshots/12.jpeg)
+![Primer Diseno](./screenshots/13.jpeg)
+#### Y con eso se nos deberia descargar un archivo con extencion sql, si queremos podemos importar esta base de datos al nuevo hosting junto a la pagina web.
+
+
